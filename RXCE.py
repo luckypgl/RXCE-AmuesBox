@@ -72,7 +72,7 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print("Contact me on telegram @Haker9729")
+        print("Contact me on telegram @rxcehack143")
         print("Enter ",newperiod," Parity Price :")
         current=input()
         current=int(current)
@@ -123,7 +123,7 @@ def hero():
             system('figlet Thank you!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n Contact on Telegram @Hacker9729")
+            sys.exit(" \n \n \n Contact on Telegram @rxcehack143")
             print(numbers)
   
 
@@ -163,6 +163,6 @@ if(expirydate>today):
         print("31st Aug 2021, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on telegram @Hacker9729 ")
+        print(" admin on telegram @rxcehack143 ")
 
 
